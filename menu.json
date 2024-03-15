@@ -1,0 +1,2 @@
+fetch('menu.json')
+.hen(response=> response.json())
